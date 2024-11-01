@@ -1,0 +1,14 @@
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\bin\Debug\net8.0\pbo-abstract-task.exe
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\bin\Debug\net8.0\pbo-abstract-task.deps.json
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\bin\Debug\net8.0\pbo-abstract-task.runtimeconfig.json
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\bin\Debug\net8.0\pbo-abstract-task.dll
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\bin\Debug\net8.0\pbo-abstract-task.pdb
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.AssemblyInfoInputs.cache
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.AssemblyInfo.cs
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.csproj.CoreCompileInputs.cache
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.dll
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\refint\pbo-abstract-task.dll
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.pdb
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\pbo-abstract-task.genruntimeconfig.cache
+D:\Home\Programming\Belajar C#\Danish\pbo-abstract-task\pbo-abstract-task\obj\Debug\net8.0\ref\pbo-abstract-task.dll
